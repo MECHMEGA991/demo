@@ -1,4 +1,4 @@
 # demo
-This is my girst Git Respository.
+This is my first Git Respository.
 <br>
 Author - Ankush 
